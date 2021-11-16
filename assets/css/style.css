@@ -1,0 +1,113 @@
+/* full body */
+.body{
+    background-color:  #E8DBC4;
+    padding: 20px;
+}
+
+/* embroidery wrap*/
+
+.introduction{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+/* introduction */
+.introwel{
+    color: #3C0B1B;
+    font-size: 100px;
+    font-family: 'Stardos Stencil', cursive;
+}
+
+.introport{
+    color: #C41E0F;
+    font-size: 48px;
+    font-family: 'Stardos Stencil', cursive;
+}
+.introjayimg{
+    max-width: 100%;
+}
+.introname{
+    color: #CD9424;
+    font-size: 150px;
+    font-family: 'Stardos Stencil', cursive;
+}
+
+/* beginning */
+.begin-head{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 50px;
+}
+
+.begin p{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
+/* phase one*/
+
+.phaseone{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 50px;
+}
+.phase-column-one{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+.one p{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
+
+/* phase two */
+.phasetwo{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 50px;
+}
+
+.two p{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
+
+.two-list{
+     color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
+
+/* phase three */
+.phasethree{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 50px;
+}
+.phase-column-three{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+.three p{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
+.phase-column-three-pt2{
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+/* future */
+
+.future-head{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 50px;
+}
+
+.future p{
+    color: black;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 45px;
+}
